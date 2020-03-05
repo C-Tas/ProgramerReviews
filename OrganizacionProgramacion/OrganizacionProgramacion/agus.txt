@@ -1,3 +1,5 @@
 
 
 resources.h y resources.cpp
+
+Clase GameObject
