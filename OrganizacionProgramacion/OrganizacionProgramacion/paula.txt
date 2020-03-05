@@ -1,2 +1,8 @@
 
 GameState
+
+Clase SelectGameState
+
+Clase ControlState
+
+Clase Collider(Abstracta)

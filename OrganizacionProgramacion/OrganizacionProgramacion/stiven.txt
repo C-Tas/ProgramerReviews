@@ -1,2 +1,7 @@
 
 Button
+Clase Actor (abstracta)
+
+Clase CreditsState
+
+clase Dynamic (abstracta)

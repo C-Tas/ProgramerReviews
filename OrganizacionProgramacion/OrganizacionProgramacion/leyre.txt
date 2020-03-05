@@ -1,3 +1,9 @@
 
 
 GameState
+
+Clase SelectGameState
+
+Clase ControlState
+
+Clase InputHandler

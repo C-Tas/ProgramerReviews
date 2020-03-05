@@ -1,3 +1,9 @@
 
 
 Texture
+
+Clase GameObject
+
+Clase Draw(Abstracta)
+
+clase StashState

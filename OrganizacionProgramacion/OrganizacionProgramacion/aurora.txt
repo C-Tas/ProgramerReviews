@@ -1,3 +1,9 @@
 
 
 resources.h y resources.cpp
+
+Clase GameStateMachine
+
+Clase Draw(Abstracta)
+
+Clase Trigger

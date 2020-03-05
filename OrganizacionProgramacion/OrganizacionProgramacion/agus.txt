@@ -1,3 +1,9 @@
 
 
 resources.h y resources.cpp
+
+Clase GameObject
+
+Clase Collider(Abstracta)
+
+Clase Trigger

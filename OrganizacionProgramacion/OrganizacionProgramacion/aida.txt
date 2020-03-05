@@ -1,2 +1,10 @@
 
 Texture
+
+Clase GameStateMachine
+
+MainMenuState
+
+clase StashState
+
+Clase SelectLevelState
