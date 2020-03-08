@@ -7,3 +7,5 @@ Clase GameObject
 Clase Collider(Abstracta)
 
 Clase Trigger
+
+Clase ObjectGenerator

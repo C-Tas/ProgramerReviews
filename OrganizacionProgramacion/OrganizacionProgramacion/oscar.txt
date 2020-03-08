@@ -7,3 +7,5 @@ Clase GameObject
 Clase Draw(Abstracta)
 
 clase StashState
+
+Clase Player(plantilla)

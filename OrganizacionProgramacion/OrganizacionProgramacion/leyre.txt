@@ -7,3 +7,5 @@ Clase SelectGameState
 Clase ControlState
 
 Clase InputHandler
+
+Clase ObjectGenerator

@@ -7,3 +7,5 @@ Clase GameStateMachine
 Clase Draw(Abstracta)
 
 Clase Trigger
+
+Funcionalidad del SelectLevelState

@@ -6,3 +6,5 @@ Clase CreditsState
 MainMenuState
 
 Clase SaveLoadState
+
+Clase Player(plantilla)
