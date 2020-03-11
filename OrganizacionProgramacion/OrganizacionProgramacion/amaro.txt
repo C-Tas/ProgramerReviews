@@ -8,3 +8,5 @@ MainMenuState
 Clase SaveLoadState
 
 Clase Player(plantilla)
+
+clase interactuable (abstracta)

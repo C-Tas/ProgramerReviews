@@ -9,3 +9,5 @@ Clase ControlState
 Clase InputHandler
 
 Clase ObjectGenerator
+
+Clase Item

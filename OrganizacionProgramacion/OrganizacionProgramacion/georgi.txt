@@ -6,3 +6,5 @@ Clase Actor (abstracta)
 Clase PauseState
 
 clase Dynamic (abstracta)
+
+TextureManager

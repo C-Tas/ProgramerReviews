@@ -8,3 +8,5 @@ Clase ControlState
 Clase Collider(Abstracta)
 
 Funcionalidad del SelectLevelState
+
+clase interactuable (abstracta)
