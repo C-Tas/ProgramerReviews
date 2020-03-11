@@ -9,3 +9,5 @@ Clase Collider(Abstracta)
 Clase Trigger
 
 Clase ObjectGenerator
+
+Movimiento del Jugador

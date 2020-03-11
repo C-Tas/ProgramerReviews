@@ -8,3 +8,5 @@ MainMenuState
 clase StashState
 
 Clase SelectLevelState
+
+Movimiento del Jugador
