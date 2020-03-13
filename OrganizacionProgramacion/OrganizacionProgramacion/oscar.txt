@@ -9,3 +9,7 @@ Clase Draw(Abstracta)
 clase StashState
 
 Clase Player(plantilla)
+
+Ataque a distancia
+
+Clase GameManager

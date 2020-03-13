@@ -8,3 +8,7 @@ Clase PauseState
 clase Dynamic (abstracta)
 
 TextureManager
+
+Ataque a distancia
+
+Funcionalidad de los puntos de hazaña

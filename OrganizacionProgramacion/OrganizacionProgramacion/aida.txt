@@ -10,3 +10,5 @@ clase StashState
 Clase SelectLevelState
 
 Movimiento del Jugador
+
+clase Equipment

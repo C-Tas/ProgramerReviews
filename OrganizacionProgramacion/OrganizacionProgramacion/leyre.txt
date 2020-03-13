@@ -11,3 +11,5 @@ Clase InputHandler
 Clase ObjectGenerator
 
 Clase Item
+
+clase Equipment

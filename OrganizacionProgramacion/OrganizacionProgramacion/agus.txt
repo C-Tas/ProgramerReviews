@@ -11,3 +11,5 @@ Clase Trigger
 Clase ObjectGenerator
 
 Movimiento del Jugador
+
+Funcionalidad StoryState

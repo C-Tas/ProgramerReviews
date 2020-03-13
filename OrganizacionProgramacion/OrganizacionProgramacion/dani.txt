@@ -8,3 +8,7 @@ Clase InputHandler
 Clase SaveLoadState
 
 Clase SelectLevelState
+
+Clase FontManager
+
+Funcionalidad de los puntos de hazaña

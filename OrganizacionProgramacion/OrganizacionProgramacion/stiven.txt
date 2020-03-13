@@ -7,3 +7,7 @@ Clase CreditsState
 clase Dynamic (abstracta)
 
 TextureManager
+
+Clase FontManager
+
+Clase GameManager
