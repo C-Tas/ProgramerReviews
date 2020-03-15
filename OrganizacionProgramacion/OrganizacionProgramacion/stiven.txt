@@ -11,3 +11,5 @@ TextureManager
 Clase FontManager
 
 Clase GameManager
+
+Clase Clon

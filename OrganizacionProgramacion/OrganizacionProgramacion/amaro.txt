@@ -12,3 +12,7 @@ Clase Player(plantilla)
 clase interactuable (abstracta)
 
 Funcionalidad StoryState
+
+Clase TextBoxManager
+
+Equipar armas al jugador

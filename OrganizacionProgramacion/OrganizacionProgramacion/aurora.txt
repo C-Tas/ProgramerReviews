@@ -13,3 +13,5 @@ Funcionalidad del SelectLevelState
 Clase Item
 
 Clases que heredan de equipamiento
+
+funcionalidad ControlsState

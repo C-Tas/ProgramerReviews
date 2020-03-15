@@ -13,3 +13,5 @@ Clase Player(plantilla)
 Ataque a distancia
 
 Clase GameManager
+
+funcionalidad CreditsState

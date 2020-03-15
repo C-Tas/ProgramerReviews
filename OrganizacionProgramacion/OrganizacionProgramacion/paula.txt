@@ -12,3 +12,5 @@ Funcionalidad del SelectLevelState
 clase interactuable (abstracta)
 
 Clases que heredan de equipamiento
+
+funcionalidad ControlsState

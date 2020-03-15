@@ -13,3 +13,5 @@ Clase ObjectGenerator
 Movimiento del Jugador
 
 Funcionalidad StoryState
+
+Clase Clon

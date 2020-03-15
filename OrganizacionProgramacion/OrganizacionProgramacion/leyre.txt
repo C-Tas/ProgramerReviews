@@ -13,3 +13,5 @@ Clase ObjectGenerator
 Clase Item
 
 clase Equipment
+
+funcionalidad del inventario

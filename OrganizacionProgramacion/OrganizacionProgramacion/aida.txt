@@ -12,3 +12,7 @@ Clase SelectLevelState
 Movimiento del Jugador
 
 clase Equipment
+
+funcionalidad CreditsState
+
+Equipar armas al jugador
