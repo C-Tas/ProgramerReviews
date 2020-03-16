@@ -15,3 +15,5 @@ Clase Item
 clase Equipment
 
 funcionalidad del inventario
+
+clase enemy (plantilla)

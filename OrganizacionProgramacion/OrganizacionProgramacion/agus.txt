@@ -15,3 +15,5 @@ Movimiento del Jugador
 Funcionalidad StoryState
 
 Clase Clon
+
+Clase AudioManager

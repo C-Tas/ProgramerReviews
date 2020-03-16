@@ -15,3 +15,5 @@ Clase Item
 Clases que heredan de equipamiento
 
 funcionalidad ControlsState
+
+Clase Skill (abstracta)

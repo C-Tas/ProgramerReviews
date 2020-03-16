@@ -14,3 +14,5 @@ clase interactuable (abstracta)
 Clases que heredan de equipamiento
 
 funcionalidad ControlsState
+
+clase enemy (plantilla)

@@ -14,3 +14,5 @@ Clase FontManager
 Funcionalidad de los puntos de hazaña
 
 funcionalidad del inventario
+
+Clase AudioManager

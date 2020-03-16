@@ -13,3 +13,5 @@ Clase FontManager
 Clase GameManager
 
 Clase Clon
+
+Clase Skill (abstracta)
