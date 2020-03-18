@@ -15,3 +15,5 @@ Ataque a distancia
 Clase GameManager
 
 funcionalidad CreditsState
+
+hacer un singleton de colisiones

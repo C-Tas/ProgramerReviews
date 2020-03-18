@@ -14,3 +14,5 @@ Ataque a distancia
 Funcionalidad de los puntos de hazaña
 
 Clase TextBoxManager
+
+Clase NPC

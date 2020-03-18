@@ -16,3 +16,5 @@ Clases que heredan de equipamiento
 funcionalidad ControlsState
 
 clase enemy (plantilla)
+
+hacer un singleton de colisiones

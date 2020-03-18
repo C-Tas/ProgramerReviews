@@ -17,3 +17,5 @@ Funcionalidad StoryState
 Clase Clon
 
 Clase AudioManager
+
+Clase NPC
