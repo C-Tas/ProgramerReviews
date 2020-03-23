@@ -15,3 +15,5 @@ Clase GameManager
 Clase Clon
 
 Clase Skill (abstracta)
+
+Clase obstacle

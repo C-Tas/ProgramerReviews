@@ -16,3 +16,7 @@ Funcionalidad de los puntos de hazaña
 Clase TextBoxManager
 
 Clase NPC
+
+Clase SkillState / Funcionalidad de invertir puntos de Hazaña y botones salir e inventario
+
+funcionalidad pauseState

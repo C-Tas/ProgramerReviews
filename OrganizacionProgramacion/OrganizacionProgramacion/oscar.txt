@@ -17,3 +17,5 @@ Clase GameManager
 funcionalidad CreditsState
 
 hacer un singleton de colisiones
+
+Clase inventoryButton

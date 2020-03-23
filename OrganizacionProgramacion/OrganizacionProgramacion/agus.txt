@@ -19,3 +19,5 @@ Clase Clon
 Clase AudioManager
 
 Clase NPC
+
+funcionalidad pauseState

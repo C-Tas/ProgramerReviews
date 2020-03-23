@@ -16,3 +16,5 @@ Funcionalidad StoryState
 Clase TextBoxManager
 
 Equipar armas al jugador
+
+Clase inventoryButton

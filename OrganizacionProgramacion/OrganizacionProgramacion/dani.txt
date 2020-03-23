@@ -16,3 +16,5 @@ Funcionalidad de los puntos de hazaña
 funcionalidad del inventario
 
 Clase AudioManager
+
+Clase obstacle
