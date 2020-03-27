@@ -18,3 +18,5 @@ funcionalidad del inventario
 Clase AudioManager
 
 Clase obstacle
+
+ShipState

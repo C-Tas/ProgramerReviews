@@ -17,3 +17,5 @@ Clase Clon
 Clase Skill (abstracta)
 
 Clase obstacle
+
+Habilidad liberación logica y render
