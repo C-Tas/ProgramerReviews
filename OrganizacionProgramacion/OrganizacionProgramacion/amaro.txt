@@ -18,3 +18,5 @@ Clase TextBoxManager
 Equipar armas al jugador
 
 Clase inventoryButton
+
+Clase CollisionCtrl

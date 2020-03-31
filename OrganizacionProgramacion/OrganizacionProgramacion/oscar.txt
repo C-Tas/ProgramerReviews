@@ -19,3 +19,9 @@ funcionalidad CreditsState
 hacer un singleton de colisiones
 
 Clase inventoryButton
+
+ShipState
+
+Clase ShopState / Funcionalidad de la tienda
+
+Clase usable

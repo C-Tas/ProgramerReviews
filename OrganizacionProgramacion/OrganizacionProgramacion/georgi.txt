@@ -20,3 +20,5 @@ Clase NPC
 Clase SkillState / Funcionalidad de invertir puntos de Hazaña y botones salir e inventario
 
 funcionalidad pauseState
+
+funcionalidad del menu de alijo

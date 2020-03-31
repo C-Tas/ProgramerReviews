@@ -21,3 +21,7 @@ Clase AudioManager
 Clase NPC
 
 funcionalidad pauseState
+
+Hacer zona 0
+
+clase monkeycoco

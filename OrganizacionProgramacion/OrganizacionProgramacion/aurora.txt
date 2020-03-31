@@ -19,3 +19,7 @@ funcionalidad ControlsState
 Clase Skill (abstracta)
 
 Clase SkillState / Funcionalidad de invertir puntos de Hazaña y botones salir e inventario
+
+Ataque a melee
+
+Clase CollisionCtrl

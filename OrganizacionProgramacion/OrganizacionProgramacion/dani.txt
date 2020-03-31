@@ -18,3 +18,9 @@ funcionalidad del inventario
 Clase AudioManager
 
 Clase obstacle
+
+ShipState
+
+Clase ShopState / Funcionalidad de la tienda
+
+Clase usable

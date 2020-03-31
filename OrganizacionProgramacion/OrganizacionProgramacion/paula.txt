@@ -18,3 +18,7 @@ funcionalidad ControlsState
 clase enemy (plantilla)
 
 hacer un singleton de colisiones
+
+Ataque a melee
+
+funcionalidad del menu de alijo

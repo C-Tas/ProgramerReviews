@@ -19,3 +19,9 @@ funcionalidad del inventario
 clase enemy (plantilla)
 
 Clase Crab
+
+Habilidad liberación logica y render
+
+Hacer zona 0
+
+clase monkeycoco

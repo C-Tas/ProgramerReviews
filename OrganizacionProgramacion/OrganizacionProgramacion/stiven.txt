@@ -19,3 +19,5 @@ Clase Skill (abstracta)
 Clase obstacle
 
 Clase Crab
+
+Habilidad liberación logica y render
