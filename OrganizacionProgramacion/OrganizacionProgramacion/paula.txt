@@ -22,3 +22,5 @@ hacer un singleton de colisiones
 Ataque a melee
 
 funcionalidad del menu de alijo
+
+Habilidad golpe fuerte logica y render

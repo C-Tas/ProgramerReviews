@@ -22,3 +22,5 @@ Clase SkillState / Funcionalidad de invertir puntos de Hazaña y botones salir e
 funcionalidad pauseState
 
 funcionalidad del menu de alijo
+
+clase Kraken (plantilla)

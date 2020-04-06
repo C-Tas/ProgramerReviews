@@ -16,3 +16,7 @@ clase Equipment
 funcionalidad CreditsState
 
 Equipar armas al jugador
+
+Visualizacion y desbloqueo al invertir puntos de hazaña
+
+clase Kraken (plantilla)

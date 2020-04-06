@@ -23,3 +23,5 @@ Clase SkillState / Funcionalidad de invertir puntos de Hazaña y botones salir e
 Ataque a melee
 
 Clase CollisionCtrl
+
+Habilidad golpe fuerte logica y render

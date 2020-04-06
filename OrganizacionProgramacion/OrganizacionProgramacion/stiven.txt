@@ -21,3 +21,5 @@ Clase obstacle
 Clase Crab
 
 Habilidad liberación logica y render
+
+Funcionalidad de asignar las skills a las teclas
