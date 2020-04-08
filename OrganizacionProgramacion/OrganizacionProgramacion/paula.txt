@@ -24,3 +24,7 @@ Ataque a melee
 funcionalidad del menu de alijo
 
 Habilidad golpe fuerte logica y render
+
+Tecla de grito
+
+clase Wolf

@@ -27,3 +27,7 @@ Clase ShopState / Funcionalidad de la tienda
 Clase usable
 
 actualizar inventario para incluir clase usable
+
+Habilidad invencible
+
+teclas de interfaz

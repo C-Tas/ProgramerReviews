@@ -24,3 +24,5 @@ Clase CollisionCtrl
 Visualizacion y desbloqueo al invertir puntos de hazaña
 
 actualizar inventario para incluir clase usable
+
+implementar la funcionalidad del HUD

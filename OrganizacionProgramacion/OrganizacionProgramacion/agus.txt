@@ -25,3 +25,7 @@ funcionalidad pauseState
 Hacer zona 0
 
 clase monkeycoco
+
+Habilidad torbellino logica y render
+
+teclas de interfaz

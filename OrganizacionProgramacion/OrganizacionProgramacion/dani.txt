@@ -26,3 +26,5 @@ Clase ShopState / Funcionalidad de la tienda
 Clase usable
 
 Funcionalidad de asignar las skills a las teclas
+
+implementar la funcionalidad del HUD

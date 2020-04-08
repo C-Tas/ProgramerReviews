@@ -25,3 +25,7 @@ Habilidad liberación logica y render
 Hacer zona 0
 
 clase monkeycoco
+
+Tecla de grito
+
+Habilidad pistolero raudo

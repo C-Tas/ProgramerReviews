@@ -24,3 +24,5 @@ funcionalidad pauseState
 funcionalidad del menu de alijo
 
 clase Kraken (plantilla)
+
+Habilidad torbellino logica y render

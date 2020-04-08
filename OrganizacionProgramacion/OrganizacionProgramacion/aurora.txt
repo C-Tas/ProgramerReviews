@@ -25,3 +25,7 @@ Ataque a melee
 Clase CollisionCtrl
 
 Habilidad golpe fuerte logica y render
+
+Clase EnemyPirate
+
+clase Wolf
