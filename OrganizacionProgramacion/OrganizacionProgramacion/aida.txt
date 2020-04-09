@@ -24,3 +24,5 @@ clase Kraken (plantilla)
 Clase EnemyPirate
 
 Habilidad pistolero raudo
+
+Cámara que sigue al jugador

@@ -29,3 +29,5 @@ Habilidad golpe fuerte logica y render
 Clase EnemyPirate
 
 clase Wolf
+
+Habilidad autodestruccion

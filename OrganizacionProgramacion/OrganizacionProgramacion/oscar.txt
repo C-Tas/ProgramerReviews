@@ -31,3 +31,5 @@ actualizar inventario para incluir clase usable
 Habilidad invencible
 
 teclas de interfaz
+
+Habilidad autodestruccion

@@ -28,3 +28,5 @@ Habilidad golpe fuerte logica y render
 Tecla de grito
 
 clase Wolf
+
+Mostrar las descripciones de las skills
