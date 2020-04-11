@@ -30,3 +30,5 @@ Tecla de grito
 clase Wolf
 
 Mostrar las descripciones de las skills
+
+Habilidad Perforacion

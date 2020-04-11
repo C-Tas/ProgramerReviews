@@ -26,3 +26,5 @@ Clase EnemyPirate
 Habilidad pistolero raudo
 
 Cámara que sigue al jugador
+
+clase Magordito (Plantilla)

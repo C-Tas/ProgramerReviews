@@ -29,3 +29,5 @@ clase monkeycoco
 Tecla de grito
 
 Habilidad pistolero raudo
+
+Habilidad Perforacion

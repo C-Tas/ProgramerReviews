@@ -27,3 +27,5 @@ Funcionalidad de asignar las skills a las teclas
 Habilidad invencible
 
 clase Skeleton
+
+clase Magordito (Plantilla)
