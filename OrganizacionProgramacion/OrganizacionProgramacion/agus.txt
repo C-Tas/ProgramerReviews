@@ -29,3 +29,5 @@ clase monkeycoco
 Habilidad torbellino logica y render
 
 teclas de interfaz
+
+Implementar NPC cocinero
