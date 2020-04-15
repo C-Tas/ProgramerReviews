@@ -32,3 +32,5 @@ implementar la funcionalidad del HUD
 Mostrar las descripciones de las skills
 
 Habilidad Rebote
+
+Clase Cleon (plantilla)

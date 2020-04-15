@@ -31,3 +31,5 @@ Habilidad torbellino logica y render
 teclas de interfaz
 
 Implementar NPC cocinero
+
+Ataques melee (player y clon)

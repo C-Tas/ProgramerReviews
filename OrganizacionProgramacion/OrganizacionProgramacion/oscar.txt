@@ -33,3 +33,5 @@ Habilidad invencible
 teclas de interfaz
 
 Habilidad autodestruccion
+
+disparo Clon

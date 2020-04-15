@@ -30,3 +30,5 @@ implementar la funcionalidad del HUD
 Cámara que sigue al jugador
 
 Habilidad Rebote
+
+Clase Chest

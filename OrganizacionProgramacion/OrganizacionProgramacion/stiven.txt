@@ -31,3 +31,5 @@ clase Skeleton
 clase Magordito (Plantilla)
 
 Implementar NPC cocinero
+
+disparo Clon

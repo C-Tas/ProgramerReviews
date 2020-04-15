@@ -31,3 +31,5 @@ Tecla de grito
 Habilidad pistolero raudo
 
 Habilidad Perforacion
+
+Habilidad señuelo

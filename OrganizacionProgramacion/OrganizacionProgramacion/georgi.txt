@@ -28,3 +28,5 @@ clase Kraken (plantilla)
 Habilidad torbellino logica y render
 
 clase Skeleton
+
+Clase Chest

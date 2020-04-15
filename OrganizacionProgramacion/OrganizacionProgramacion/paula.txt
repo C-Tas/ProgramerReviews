@@ -32,3 +32,5 @@ clase Wolf
 Mostrar las descripciones de las skills
 
 Habilidad Perforacion
+
+Ataques melee (player y clon)

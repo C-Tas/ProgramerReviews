@@ -31,3 +31,5 @@ Clase EnemyPirate
 clase Wolf
 
 Habilidad autodestruccion
+
+Clase Cleon (plantilla)
