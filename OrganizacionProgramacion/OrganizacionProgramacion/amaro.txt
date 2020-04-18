@@ -32,3 +32,4 @@ Cámara que sigue al jugador
 Habilidad Rebote
 
 Clase Chest
+

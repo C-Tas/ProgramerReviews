@@ -30,3 +30,7 @@ Cámara que sigue al jugador
 clase Magordito (Plantilla)
 
 Habilidad señuelo
+
+implementar animacion del disparo del jugador
+
+implementacion anim idle de player

@@ -30,3 +30,5 @@ Habilidad torbellino logica y render
 clase Skeleton
 
 Clase Chest
+
+implementar animacion del disparo del jugador

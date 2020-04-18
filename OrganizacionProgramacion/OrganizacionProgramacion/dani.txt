@@ -34,3 +34,5 @@ Mostrar las descripciones de las skills
 Habilidad Rebote
 
 Clase Cleon (plantilla)
+
+Desbloquear pasivas y refactorización del uso de las habilidades activas

@@ -33,3 +33,5 @@ clase Wolf
 Habilidad autodestruccion
 
 Clase Cleon (plantilla)
+
+implementacion anim atk a melee

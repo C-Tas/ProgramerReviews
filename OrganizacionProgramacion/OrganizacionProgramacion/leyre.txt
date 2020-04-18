@@ -33,3 +33,5 @@ Habilidad pistolero raudo
 Habilidad Perforacion
 
 Habilidad señuelo
+
+implementacion anim idle de player
