@@ -34,3 +34,5 @@ Habilidad señuelo
 implementar animacion del disparo del jugador
 
 implementacion anim idle de player
+
+habilidad del azote

@@ -35,3 +35,5 @@ teclas de interfaz
 Habilidad autodestruccion
 
 disparo Clon
+
+funcionalidad de perder

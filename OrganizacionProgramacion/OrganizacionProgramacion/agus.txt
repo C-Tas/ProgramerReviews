@@ -34,3 +34,5 @@ Implementar NPC cocinero
 
 Ataques melee (player y clon)
 
+
+funcionalidad de perder

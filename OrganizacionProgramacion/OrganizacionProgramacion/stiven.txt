@@ -33,3 +33,5 @@ clase Magordito (Plantilla)
 Implementar NPC cocinero
 
 disparo Clon
+
+habilidad del azote

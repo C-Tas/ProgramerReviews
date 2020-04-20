@@ -32,3 +32,7 @@ clase Skeleton
 Clase Chest
 
 implementar animacion del disparo del jugador
+
+clase pumpkin
+
+refactorizacion de enemigos
