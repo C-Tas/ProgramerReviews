@@ -36,3 +36,5 @@ Ataques melee (player y clon)
 
 
 funcionalidad de perder
+
+implementar animacion del cofre

@@ -35,3 +35,5 @@ Implementar NPC cocinero
 disparo Clon
 
 habilidad del azote
+
+implementación de tienda en npc

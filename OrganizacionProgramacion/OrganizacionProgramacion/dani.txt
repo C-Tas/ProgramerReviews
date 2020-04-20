@@ -38,3 +38,5 @@ Clase Cleon (plantilla)
 Desbloquear pasivas y refactorización del uso de las habilidades activas
 
 NPCS Desbloqueados
+
+reajuste tamaño letra segun el tamaño de la ventana

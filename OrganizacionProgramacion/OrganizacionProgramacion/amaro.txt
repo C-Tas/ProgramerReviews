@@ -37,3 +37,5 @@ Clase Chest
 clase pumpkin
 
 refactorizacion de enemigos
+
+reajuste tamaño letra segun el tamaño de la ventana

@@ -37,3 +37,5 @@ Clase Cleon (plantilla)
 implementacion anim atk a melee
 
 NPCS Desbloqueados
+
+implementar animacion del cofre
