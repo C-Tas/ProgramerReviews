@@ -39,3 +39,5 @@ implementacion anim atk a melee
 NPCS Desbloqueados
 
 implementar animacion del cofre
+
+Implementacion del trabuco

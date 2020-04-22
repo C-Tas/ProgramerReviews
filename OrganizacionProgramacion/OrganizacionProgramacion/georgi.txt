@@ -36,3 +36,5 @@ implementar animacion del disparo del jugador
 clase pumpkin
 
 refactorizacion de enemigos
+
+Implementacion del trabuco

@@ -37,3 +37,7 @@ Habilidad autodestruccion
 disparo Clon
 
 funcionalidad de perder
+
+Habilidad barrido del Kraken
+
+implementar animación autodestrucción clon

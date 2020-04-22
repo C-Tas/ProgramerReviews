@@ -38,3 +38,5 @@ Ataques melee (player y clon)
 Desbloquear pasivas y refactorización del uso de las habilidades activas
 
 implementacion anim atk a melee
+
+Habilidad barrido del Kraken

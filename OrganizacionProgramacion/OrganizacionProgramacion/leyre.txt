@@ -37,3 +37,5 @@ Habilidad señuelo
 implementacion anim idle de player
 
 implementación de tienda en npc
+
+Implementar texturas del cursor

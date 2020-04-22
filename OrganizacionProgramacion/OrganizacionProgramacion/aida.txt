@@ -36,3 +36,7 @@ implementar animacion del disparo del jugador
 implementacion anim idle de player
 
 habilidad del azote
+
+Hacer que la camara sea fija en el barco
+
+implementar animación autodestrucción clon

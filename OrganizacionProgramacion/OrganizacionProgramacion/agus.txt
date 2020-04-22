@@ -38,3 +38,5 @@ Ataques melee (player y clon)
 funcionalidad de perder
 
 implementar animacion del cofre
+
+Hacer que la camara sea fija en el barco
