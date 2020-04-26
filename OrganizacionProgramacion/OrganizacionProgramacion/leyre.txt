@@ -39,3 +39,5 @@ implementacion anim idle de player
 implementación de tienda en npc
 
 Implementar texturas del cursor
+
+implementar animaciones del mono

@@ -44,3 +44,5 @@ reajuste tamaño letra segun el tamaño de la ventana
 Implementar mapa de la zona 1
 
 implementación del disparo del clon
+
+animaciones idle y ataque a melee del clon

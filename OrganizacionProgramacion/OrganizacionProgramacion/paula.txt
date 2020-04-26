@@ -42,3 +42,5 @@ implementacion anim atk a melee
 Habilidad barrido del Kraken
 
 colisiones barco
+
+implementar animaciones calabaza
