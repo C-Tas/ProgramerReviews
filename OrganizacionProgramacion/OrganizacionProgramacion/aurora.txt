@@ -43,3 +43,5 @@ implementar animacion del cofre
 Implementacion del trabuco
 
 implementar animaciones del mono
+
+nado rapido kraken

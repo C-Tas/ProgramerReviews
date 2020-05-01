@@ -41,3 +41,5 @@ implementación de tienda en npc
 Implementar mapa de la zona 1
 
 implementación del disparo del clon
+
+npcs varios txts
