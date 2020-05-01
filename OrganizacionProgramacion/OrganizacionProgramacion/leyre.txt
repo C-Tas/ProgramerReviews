@@ -43,3 +43,5 @@ Implementar texturas del cursor
 implementar animaciones del mono
 
 nado rapido kraken
+
+Funcionalidad de guardar y cargar

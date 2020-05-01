@@ -43,3 +43,5 @@ Implementar mapa de la zona 1
 implementación del disparo del clon
 
 npcs varios txts
+
+mostrar la duracion de las pociones en el hud
