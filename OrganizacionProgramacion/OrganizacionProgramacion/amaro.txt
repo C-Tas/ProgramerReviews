@@ -45,3 +45,5 @@ Implementar texturas del cursor
 colisiones barco
 
 splash kraken
+
+Arreglar y ajustar las colisiones

@@ -46,3 +46,5 @@ colisiones barco
 implementar animaciones calabaza
 
 kirin del Magordito
+
+Arreglar y ajustar las colisiones
