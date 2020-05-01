@@ -42,3 +42,5 @@ implementar animacion del cofre
 Hacer que la camara sea fija en el barco
 
 implementar animaciones calabaza
+
+Mostrar la duracion de la pociones en el hud

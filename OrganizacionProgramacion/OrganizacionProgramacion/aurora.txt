@@ -43,3 +43,5 @@ implementar animacion del cofre
 Implementacion del trabuco
 
 implementar animaciones del mono
+
+Funcionalidad de guardar y cargar
