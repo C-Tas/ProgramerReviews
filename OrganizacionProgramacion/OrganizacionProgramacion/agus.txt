@@ -42,3 +42,5 @@ implementar animacion del cofre
 Hacer que la camara sea fija en el barco
 
 implementar animaciones calabaza
+
+enemigos dan ptos de hazaña y oro

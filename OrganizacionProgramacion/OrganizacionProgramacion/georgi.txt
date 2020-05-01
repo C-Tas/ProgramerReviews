@@ -40,3 +40,5 @@ refactorizacion de enemigos
 Implementacion del trabuco
 
 animaciones idle y ataque a melee del clon
+
+npcs varios txts

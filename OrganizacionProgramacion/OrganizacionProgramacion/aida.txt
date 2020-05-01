@@ -42,3 +42,5 @@ Hacer que la camara sea fija en el barco
 implementar animación autodestrucción clon
 
 mision secundaria gallega en problemas
+
+kirin del Magordito

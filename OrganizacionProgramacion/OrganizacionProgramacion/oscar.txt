@@ -43,3 +43,5 @@ Habilidad barrido del Kraken
 implementar animación autodestrucción clon
 
 mision secundaria gallega en problemas
+
+splash kraken

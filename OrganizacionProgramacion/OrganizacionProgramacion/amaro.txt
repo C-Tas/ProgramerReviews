@@ -43,3 +43,5 @@ reajuste tamaño letra segun el tamaño de la ventana
 Implementar texturas del cursor
 
 colisiones barco
+
+splash kraken
