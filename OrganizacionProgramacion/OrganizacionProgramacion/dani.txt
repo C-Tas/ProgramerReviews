@@ -48,3 +48,5 @@ implementación del disparo del clon
 animaciones idle y ataque a melee del clon
 
 enemigos dan ptos de hazaña y oro
+
+Implementar los altares de resurreccion

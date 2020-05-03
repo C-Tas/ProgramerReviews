@@ -45,3 +45,5 @@ implementar animaciones del mono
 nado rapido kraken
 
 Funcionalidad de guardar y cargar
+
+Habilidad viaje astral de Magordito

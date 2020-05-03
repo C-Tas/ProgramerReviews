@@ -45,3 +45,5 @@ implementar animación autodestrucción clon
 mision secundaria gallega en problemas
 
 splash kraken
+
+implementar animacion del choque de cervezas

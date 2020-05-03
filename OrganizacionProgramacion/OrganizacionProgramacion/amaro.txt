@@ -47,3 +47,5 @@ colisiones barco
 splash kraken
 
 Arreglar y ajustar las colisiones
+
+implementar animación del mercader

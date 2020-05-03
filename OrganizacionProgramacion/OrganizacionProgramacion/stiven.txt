@@ -45,3 +45,5 @@ implementación del disparo del clon
 npcs varios txts
 
 mostrar la duracion de las pociones en el hud
+
+implementar animación del mercader
