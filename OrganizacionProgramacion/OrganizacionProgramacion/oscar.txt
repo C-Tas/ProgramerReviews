@@ -47,3 +47,7 @@ mision secundaria gallega en problemas
 splash kraken
 
 implementar animacion del choque de cervezas
+
+enemigos dan ptos de hazaña y oro
+
+mostrar la duracion de las pociones en el hud

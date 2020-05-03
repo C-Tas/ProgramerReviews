@@ -43,6 +43,3 @@ Hacer que la camara sea fija en el barco
 
 implementar animaciones calabaza
 
-enemigos dan ptos de hazaña y oro
-
-mostrar la duracion de las pociones en el hud

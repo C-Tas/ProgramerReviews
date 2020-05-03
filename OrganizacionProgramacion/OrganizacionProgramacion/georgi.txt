@@ -37,6 +37,8 @@ clase pumpkin
 
 refactorizacion de enemigos
 
+implementar animacion del choque de cervezas
+
 Implementacion del trabuco
 
 animaciones idle y ataque a melee del clon
@@ -44,3 +46,5 @@ animaciones idle y ataque a melee del clon
 npcs varios txts
 
 Habilidad viaje astral de Magordito
+
+mostrar la duracion de las pociones en el hud
