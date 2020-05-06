@@ -45,3 +45,7 @@ mision secundaria gallega en problemas
 
 kirin del Magordito
 
+
+implementar animacion desaparecer clon
+
+implementar morty con animación

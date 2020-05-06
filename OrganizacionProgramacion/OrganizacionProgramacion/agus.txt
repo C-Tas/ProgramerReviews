@@ -43,3 +43,7 @@ Hacer que la camara sea fija en el barco
 
 implementar animaciones calabaza
 
+
+implementar animacion desaparecer clon
+
+Mision secundaria papeles siniestros

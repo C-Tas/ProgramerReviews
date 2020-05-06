@@ -47,3 +47,5 @@ nado rapido kraken
 Funcionalidad de guardar y cargar
 
 Habilidad viaje astral de Magordito
+
+implementar morty con animación
