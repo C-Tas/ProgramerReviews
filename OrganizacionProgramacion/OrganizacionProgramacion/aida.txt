@@ -49,3 +49,5 @@ kirin del Magordito
 implementar animacion desaparecer clon
 
 implementar morty con animación
+
+adaptar el cangrejo

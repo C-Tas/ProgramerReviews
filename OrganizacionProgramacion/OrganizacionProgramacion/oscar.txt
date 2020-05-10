@@ -53,3 +53,5 @@ enemigos dan ptos de hazaña y oro
 mostrar la duracion de las pociones en el hud
 
 Implementar idle cartografa con mision
+
+hacer el pathfinding

@@ -47,3 +47,5 @@ implementar animaciones calabaza
 implementar animacion desaparecer clon
 
 Mision secundaria papeles siniestros
+
+implementar regeneración de maná

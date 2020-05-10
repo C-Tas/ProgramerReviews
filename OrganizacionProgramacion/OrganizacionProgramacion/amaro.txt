@@ -51,3 +51,5 @@ Arreglar y ajustar las colisiones
 implementar animación del mercader
 
 Mision secundaria papeles siniestros
+
+hacer el pathfinding
