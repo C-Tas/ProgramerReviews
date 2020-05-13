@@ -54,3 +54,5 @@ Implementar los altares de resurreccion
 Implementar idle cartografa con mision
 
 adaptar el cangrejo
+
+pociones en rand equip

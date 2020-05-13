@@ -49,3 +49,7 @@ mostrar la duracion de las pociones en el hud
 implementar animación del mercader
 
 implementar animaciones del esqueleto
+
+crear tutorialState
+
+pociones en rand equip

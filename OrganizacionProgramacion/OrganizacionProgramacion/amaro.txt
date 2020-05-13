@@ -53,3 +53,5 @@ implementar animación del mercader
 Mision secundaria papeles siniestros
 
 hacer el pathfinding
+
+Refact sonido

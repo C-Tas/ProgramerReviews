@@ -50,3 +50,5 @@ Habilidad viaje astral de Magordito
 mostrar la duracion de las pociones en el hud
 
 implementar animacion del cangrejo
+
+implementar animaciones magordito

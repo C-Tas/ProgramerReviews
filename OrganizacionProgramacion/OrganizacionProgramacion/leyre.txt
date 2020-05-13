@@ -51,3 +51,5 @@ Habilidad viaje astral de Magordito
 implementar morty con animación
 
 implementar regeneración de maná
+
+implementar animacion muerte de enemigos

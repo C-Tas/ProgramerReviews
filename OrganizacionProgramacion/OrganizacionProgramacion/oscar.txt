@@ -55,3 +55,5 @@ mostrar la duracion de las pociones en el hud
 Implementar idle cartografa con mision
 
 hacer el pathfinding
+
+implementar tareas del tutorial

@@ -54,3 +54,5 @@ Implementar los altares de resurreccion
 Montar zona 2
 
 implementar animacion del cangrejo
+
+hacer zona de pruebas

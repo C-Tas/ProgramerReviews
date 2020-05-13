@@ -51,3 +51,5 @@ Funcionalidad de guardar y cargar
 Montar zona 2
 
 implementar animaciones del esqueleto
+
+Refact sonido

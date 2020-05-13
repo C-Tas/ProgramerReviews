@@ -49,3 +49,9 @@ implementar animacion desaparecer clon
 Mision secundaria papeles siniestros
 
 implementar regeneración de maná
+
+implementar animacion muerte de enemigos
+
+implementar animaciones magordito
+
+implementar tareas del tutorial
