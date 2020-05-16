@@ -55,3 +55,7 @@ Mision secundaria papeles siniestros
 hacer el pathfinding
 
 Refact sonido
+
+arreglar lo del sdlgetTicks
+
+implementar las animaciones del endState

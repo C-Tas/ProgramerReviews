@@ -57,3 +57,5 @@ Implementar idle cartografa con mision
 hacer el pathfinding
 
 implementar tareas del tutorial
+
+Implementar el paso de zonas y volver al barco

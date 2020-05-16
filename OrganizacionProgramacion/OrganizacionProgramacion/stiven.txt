@@ -53,3 +53,5 @@ implementar animaciones del esqueleto
 crear tutorialState
 
 pociones en rand equip
+
+Implementar el paso de zonas y volver al barco

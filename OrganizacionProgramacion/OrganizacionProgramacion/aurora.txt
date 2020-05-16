@@ -53,3 +53,5 @@ Montar zona 2
 implementar animaciones del esqueleto
 
 Refact sonido
+
+implementar endState

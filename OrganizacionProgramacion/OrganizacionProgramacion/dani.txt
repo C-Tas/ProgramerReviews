@@ -56,3 +56,5 @@ Implementar idle cartografa con mision
 adaptar el cangrejo
 
 pociones en rand equip
+
+implementar animaciones de venancio

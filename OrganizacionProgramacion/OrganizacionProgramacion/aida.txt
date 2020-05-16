@@ -55,3 +55,7 @@ adaptar el cangrejo
 crear tutorialState
 
 hacer zona de pruebas
+
+implementar animaciones de venancio
+
+Implementar feedback visual y sonoro al recibir daño

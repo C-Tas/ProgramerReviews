@@ -56,3 +56,7 @@ Montar zona 2
 implementar animacion del cangrejo
 
 hacer zona de pruebas
+
+añadir descripciones a los objetos
+
+Implementar feedback visual y sonoro al recibir daño

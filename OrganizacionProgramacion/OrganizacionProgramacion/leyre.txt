@@ -53,3 +53,7 @@ implementar morty con animación
 implementar regeneración de maná
 
 implementar animacion muerte de enemigos
+
+añadir descripciones a los objetos
+
+implementar las animaciones del endState

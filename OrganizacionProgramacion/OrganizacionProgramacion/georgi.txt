@@ -52,3 +52,5 @@ mostrar la duracion de las pociones en el hud
 implementar animacion del cangrejo
 
 implementar animaciones magordito
+
+arreglar lo del sdlgetTicks
